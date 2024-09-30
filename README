@@ -1,0 +1,6 @@
+This is a test of c23 type formatter
+
+Requires g++13
+
+$ make
+$ ./main
